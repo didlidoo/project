@@ -1,0 +1,15 @@
+#cooldivs {
+  width: 50%;
+  background: white;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: red green blue orange;
+}
+.imgs {
+border-style: dotted;
+border-width: 10px;
+border-color: cyan orange magenta green;
+}
+h1 {
+font-family: Arial Black;
+}
